@@ -6,6 +6,7 @@
 def foo(x):
     pass
 
+
 class A(object):
 
     # 实例方法

@@ -12,4 +12,5 @@ def test():
         def get(self):
             return self.data
 
+
 print(dis.dis(test))
