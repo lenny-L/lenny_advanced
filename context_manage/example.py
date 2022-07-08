@@ -3,7 +3,8 @@
 # @Author  : lenny
 # @desc    :
 
-class DB():
+
+class DB(object):
     def __init__(self, name):
         print(f"this is __init__")
         self.name = name
